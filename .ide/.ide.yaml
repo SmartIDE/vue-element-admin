@@ -24,7 +24,7 @@
         expose:
           - 3000
         ports:
-          - 9526:9526
+          - 9588:9588
         networks:
           - smartide-network
   
