@@ -14,7 +14,7 @@
     services:
   
       vue-element-admin:
-        image: registry.cn-hangzhou.aliyuncs.com/smartide/smartide-opvscode:latest
+        image: registry.cn-hangzhou.aliyuncs.com/smartide/smartide-node:latest:latest
         restart: always
         volumes:
           - .:/home/project
